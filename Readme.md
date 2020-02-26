@@ -14,7 +14,7 @@ n.show // "Name(firstName=john,lastName=doe)"
 ```
 
 
-It also can be a nested case class : 
+It also can be a case class containing nested case classes : 
 
 ```scala 
 case class Name(firstName: String, lastName: String)
