@@ -2,7 +2,7 @@
 
 This is a port of Show from Hamsters to Scala 2.13.
 
-Show provides a textual representation for case classes.
+Show provides a textual representation for case classes (better than `toString`).
 
 ```scala
 import io.github.hamsters.Show._
