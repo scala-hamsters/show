@@ -10,7 +10,7 @@ import io.github.hamsters.Show._
 case class Name(firstName: String, lastName: String)
 
 val n = Name("john", "doe")
-n.show // "Name(firstName=john,lastName=doe)
+n.show // "Name(firstName=john,lastName=doe)"
 ```
 
 
